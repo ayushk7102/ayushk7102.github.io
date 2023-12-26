@@ -2,8 +2,8 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
+description: I like to try and solve cool problems. Some of these may exist, the others I'm not too sure about.
+
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
@@ -29,6 +29,7 @@ horizontal: false
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
+    
       {% include projects.html %}
     {%- endfor %}
   </div>

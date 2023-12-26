@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: FlockSim - Bird flocking simulation
+description: An interactive flocking simulator that implements the Boids model, an algorithm to emulate the collective behavior of a group of autonomous agents
+img: assets/img/flocksim.gif
 importance: 1
+redirect: https://github.com/ayushk7102/flockSim
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.

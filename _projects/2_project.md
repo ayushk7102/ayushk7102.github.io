@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Modelling transit networks
+description: Developing computational models for congestion and ridership on Bangalore's public bus network 
+img: assets/img/transit.gif
 importance: 2
+redirect: https://drive.google.com/file/d/1rRubgt9IAjntJfdNQ8U4G4MWSjuOHz8k/view?usp=sharing
 category: work
 giscus_comments: true
 ---

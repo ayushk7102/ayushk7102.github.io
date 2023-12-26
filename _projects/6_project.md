@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
+title: Transit Mapper
+description: Generate visualisations of subway and other rapid transit maps using Shapely, GeoPandas, and public transit timetable data by Google.
+img: assets/img/trnas.png
+redirect: https://github.com/ayushk7102/transit-map-visualiser
 importance: 4
 category: fun
 ---
