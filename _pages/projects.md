@@ -2,8 +2,8 @@
 layout: page
 title: projects
 permalink: /projects/
-description: I like to try and solve cool problems. Some of these may exist, the others I'm not too sure about.
-
+description: I like to try and solve cool problems. Some of these problems actually exist, the others I'm not too sure about.
+nav: true
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
