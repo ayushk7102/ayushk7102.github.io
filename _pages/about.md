@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a final year student studying Computer and Communication Engineering at the Manipal Institute of Technology, India. 
 
-I am broadly interested in developing computational solutions to mathematical problems, particularly ones in graph theory, combinatorics, and geometry. Currently, I'm exploring network optimization and graph algorithms.
+I'm interested in developing computational solutions to mathematical problems. Recently, I've been exploring network optimization, dynamic graph algorithms, and prompting in large language models.
 
 I have been an intern at [CiSTUP](https://cistup.iisc.ac.in/) at the Indian Institute of Science, Bangalore, under the supervision of [Prof. Tarun Rambha](http://civil.iisc.ac.in/~tarunr/). Previously, I interned at IIIT Hyderabad as part of SRISHTI '22, and at the Chennai Mathematical Institute under [Prof. M.K. Srivas](https://www.cmi.ac.in/~mksrivas/). During my undergrad, I've been part of [Project MANAS](https://projectmanas.in/), MIT Manipal's official autonomous vehicles team. 
 
