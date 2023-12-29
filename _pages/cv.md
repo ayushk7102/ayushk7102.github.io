@@ -1,5 +1,5 @@
 ---
-layout: cv
+
 permalink: /cv/
 title: cv
 nav: true
@@ -10,3 +10,4 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
+<meta http-equiv="refresh" content="0;URL='/assets/pdf/Ayush_Kumar_resume_December_23.pdf'">
