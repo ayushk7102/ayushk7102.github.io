@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FlockSim - Bird flocking simulation
-description: An interactive flocking simulator that implements the Boids model, an algorithm to emulate the collective behavior of a group of autonomous agents
+description: <a href="https://github.com/ayushk7102/flockSim" target="_blank">[code]</a> <br> An interactive flocking simulator that implements the Boids model, an algorithm to emulate the collective behavior of a group of autonomous agents
 img: assets/img/flocksim.gif
 importance: 1
 redirect: https://github.com/ayushk7102/flockSim

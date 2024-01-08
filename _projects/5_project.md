@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visualising non-standard automata
-description: Implementing various atypical automata. We use the rock-paper-scissors model to generate rule-based pattern visualizations
+description: <a href="https://github.com/ayushk7102/rock_paper_scissors_automaton" target="_blank">[code]</a> <br>Implementing various atypical automata. We use the rock-paper-scissors model to generate rule-based pattern visualizations
 img: assets/img/autom.gif
 redirect: https://github.com/ayushk7102/rock_paper_scissors_automaton
 importance: 3

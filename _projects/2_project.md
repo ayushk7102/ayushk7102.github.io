@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modelling transit networks
-description: Developing computational models for congestion and ridership on Bangalore's public bus network 
+description: <a href="https://drive.google.com/file/d/1SuNal5SbLg3H9bUQu3abkKAQRitLt5lA/view?usp=sharing" target="_blank">[poster]</a>&nbsp;&nbsp;<a href="https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/4/6924/files/2023/07/BOOK-OF-ABSTRACTS-DTA-2023.pdf#page=67">[paper]</a>&nbsp;&nbsp;<a href="https://prateek1009.github.io/PTA_IISc/html/index.html">[code]</a> <br>Developing computational models for congestion and ridership on Bangalore's public bus network
 img: assets/img/transit.gif
 importance: 2
 redirect: https://drive.google.com/file/d/1rRubgt9IAjntJfdNQ8U4G4MWSjuOHz8k/view?usp=sharing

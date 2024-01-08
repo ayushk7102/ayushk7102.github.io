@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Optimizing networks with integral circulants
-description: Designing faster, more robust communication networks using integral circulant graphs
+description: <a href="https://github.com/ayushk7102/optimal-networks" target="_blank">[code]</a> <br>Designing faster, more robust communication networks using integral circulant graphs
 img: assets/img/graphs.gif
 redirect: https://github.com/ayushk7102/optimal-networks
 importance: 3

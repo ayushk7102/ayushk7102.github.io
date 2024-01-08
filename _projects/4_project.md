@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vacuum BotNav
-description: Coverage path planning algorithms for an autonomous vaccum cleaner
+description:  <a href="https://github.com/ayushk7102/Vacuum-Bot-Nav" target="_blank">[code]</a> <br>Coverage path planning algorithms for an autonomous vaccum cleaner
 img: assets/img/botnav.png
 redirect: https://github.com/ayushk7102/Vacuum-Bot-Nav
 importance: 3
