@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I'm a Master's student in Computational Data Science at Carnegie Mellon University, expected to graduate in May 2026. I completed my undergrad from Manipal Institute of Technology in 2024, where I studied Computer and Communication Engineering (with a minor in Computational Math). 
+I'm a Master's student in Computational Data Science at Carnegie Mellon University. I completed my undergrad from Manipal Institute of Technology in 2024, where I studied Computer and Communication Engineering (with a minor in Computational Math). 
 
 I'm interested in the intersection of systems and data. Recently, I've been exploring network optimization, dynamic graph algorithms, and systems for ML.
 
